@@ -15,7 +15,7 @@ This is a simple console-based Bank Management System implemented in Python. It 
 3. If creating an account:
    - Enter a new username and password.
    - Follow the prompts to create the account.
-File Structure
+### File Structure
 - **main.py:** Python script containing the Bank Management System code.
 - **README.md:** Documentation file.
 - **LICENSE:** License information file.
